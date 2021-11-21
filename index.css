@@ -1,0 +1,84 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.top{
+    background-color: rgb(55, 0, 255);
+    width: 100%;
+    height: 60px;
+}
+
+.flipkart-logo{
+    width: 200px;
+    margin-top: -47px;
+    margin-left: 10%;
+}
+
+.searchbar{
+    margin-top: -85px;
+    margin-left: 20%;
+    width: 500px;
+    height: 35px;
+}
+
+.login{
+    margin-left: 78%;
+    margin-top: -2%;
+    width: 100px;
+    height: 36px;
+    cursor: pointer;
+    font-size: 17px;
+}
+
+.more{
+    margin-left: 90%;
+    margin-top: -1.5%;
+    font-size: 17px;
+    color: white;
+    font-family: sans-serif;
+}
+
+.nav-bar{
+    border: 3;
+    width: 100%;
+    height: 60px;
+    background-color: rgb(255, 255, 255);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+th{
+   width: 12.5%; 
+}
+
+.main-img > img{
+    width: 100%;
+    height: px;
+}
+
+.deal-list{
+    border: 3;
+    width: 100%;
+    height: 60px;
+    background-color: rgb(255, 255, 255);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.deal-list1{
+    width: 90%;
+}
+
+.picks{
+    margin-top: 10px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+footer{
+    background-color: black;
+}
+
+footer > h3{
+    color: blanchedalmond;
+    text-align: center;
+}
